@@ -1,0 +1,118 @@
+.sec1{
+    background-color: rgb(217, 202, 202);
+}
+.sec2{
+    background-color: rgb(7, 125, 242);
+}
+.inbox3{color: white;
+    
+}
+
+
+
+
+span.pm{
+    color:rgb(7, 125, 242);
+}
+
+
+    
+.sec3{
+    background-color: antiquewhite;
+    text-align: center;
+    
+}
+.inbox4{
+    text-align: center;
+}
+.sec4{
+    background-color: rgb(7, 125, 242);
+}
+.inbox5{
+    color: white;
+    
+}
+.inbox6{
+    color: white;
+}
+.inbox7{
+    color: white;
+}
+
+    
+.sec5{
+       background-color: black;
+       padding: 20px;
+
+       text-align: center;
+}
+.inbox8{
+    /* text-align: center; */
+    color: white;
+
+}
+
+
+.inbox9{
+    text-align: center;
+}
+/* .sec7{
+    margin-top: 15px;
+    margin: 10px 300px;
+}
+
+.sec8{
+    margin-top: 15px;
+    
+}
+.margin-x{
+    margin: 10px 200px;
+}
+
+.sec4{
+    padding: 100px 0px;
+    position: relative;
+} */
+.retangle{
+    width: 50px;
+    height: 50px;
+    background-color: rgb(7, 125, 242);
+    position: absolute;
+    top: 93%;
+    left: 50%;
+    transform: rotate(45deg);
+}
+
+.sec5{
+    padding: 100px 0px;
+}
+.sec3{
+    padding: 100px  0px;
+}
+
+.inbox10,.inbox11,.inbox12,.inbox13,.inbox14{
+    margin: 15px;
+}
+
+.sec8{
+    background-color: black;
+    padding: 20px;
+    height: 400px;
+    text-align: center;
+}
+.inbox20{
+ 
+    color: white;
+
+}
+.inbox20 h5{
+    font-style:italic ;
+}
+
+.sec9{
+    text-align: center;
+}
+
+
+
+    
